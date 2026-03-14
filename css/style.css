@@ -1,5 +1,5 @@
 body {
-a {color:#3F00FF;}         /* Unvisited link  */
+a: {color:#3F00FF;}         /* Unvisited link  */
 a:visited {color:#3F00FF;} /* Visited link    */
 a:hover {color:#00A36C;}   /* Mouse over link */
 a:active {color:#00A36C;}  /* Selected link   */
