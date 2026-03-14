@@ -4,7 +4,7 @@
     padding: 10;
 }
 a, a:visited, a:hover, a:active {
-  color: inherit;
+  color:inherit;
 }
 body {
     font-family: 'Times New Roman', Times, serif, sans-serif;
