@@ -1,14 +1,9 @@
-* {
-    box-sizing: border-box;
-    margin: 10;
-    padding: 10;
-}
+body {
 a {color:#3F00FF;}         /* Unvisited link  */
 a:visited {color:#3F00FF;} /* Visited link    */
 a:hover {color:#00A36C;}   /* Mouse over link */
 a:active {color:#00A36C;}  /* Selected link   */
-}
-body {
+
     font-family: 'Times New Roman', Times, serif, sans-serif;
     background-color: #f4f4f4;
     margin: 10;
